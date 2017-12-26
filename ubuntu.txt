@@ -1,3 +1,3 @@
-
+Test ssh connection. 3:59pm
 Hello from Vim in Ubuntu.
 Making changes to file to test git diff.
